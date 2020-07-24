@@ -63,14 +63,14 @@ body{
 	letter-spacing: 1px;
 }
 .footer-master a{
-	color: #ccc;
 	border-bottom:solid 2px transparent;
+	color: #ccc;
 	transition: color linear 200ms , transform 200ms;
 }
 .footer-master a:hover{
+	border-bottom:solid 2px #fff;
 	color: #fff;
 	transform:scale(1.1);
-	border-bottom:solid 2px #fff;
 }
 
 .footer-master .footer-links{
@@ -79,6 +79,6 @@ body{
 
 .footer-master .footer-message{
 	border-top: solid 1px rgba(0,0,0,0.2);
-	padding: 10px;
 	padding-top: 5px;
+	padding: 10px;
 }
