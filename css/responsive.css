@@ -3,5 +3,26 @@
 	.twitter-block{
 		width: 100%;
 	}
-	
+
+	.nav-wrapper{
+		width: 100%;
+	}
+
+}
+
+@media screen and (max-width: 570px){
+
+	.frontpage-h1-detail{
+		display:none;
+	}
+
+	.frontpage *{
+		text-align: center;
+	}
+
+	.frontpage hgroup h2{
+		color: #bbb;
+	}
+
+
 }
