@@ -24,6 +24,10 @@
 		color: #bbb;
 	}
 
+	.footer-message{
+		text-align: center;
+	}
+
 	.footer-master .footer-links{
 		text-align: center;
 		width: 100%;
